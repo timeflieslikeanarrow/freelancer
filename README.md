@@ -1,0 +1,1 @@
+这是使用[李继刚的提示词](https://x.com/lijigang_com/status/1939889108194926766) 和 Gemini CLI 生成的小说《成为独立开发者后》，曾在微博连载。
